@@ -97,6 +97,11 @@ p {
   line-height: 1.5;
 }
 
+.visually-hidden {
+  position: absolute;
+  left: -10000px;
+}
+
 /* ELEMENTS */
 
 a {
@@ -124,14 +129,14 @@ a.header-logo:hover,
   border: none;
 }
 
-h1 {
+h2 {
   font-family: "Raleway", sans-serif;
   font-size: 2.5em;
   font-weight: 700;
   line-height: 1.5;
 }
 
-h2 {
+h3 {
   margin: 15px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
@@ -438,7 +443,7 @@ h2 {
     max-width: 500px;
     margin: 0 auto;
   }
-  .explanation h1 {
+  .explanation h2 {
     font-size: 1.5rem;
   }
   .signup {
