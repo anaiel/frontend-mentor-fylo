@@ -12,6 +12,8 @@ Here is my solution to the Fylo landing page challenge on Frontend Mentor. Durin
 
 I also had fun with trying to make it so that on larger screens, only the header and the intro are displayed and you have to scroll to get to the rest of the content. I also added a bit of interaction with the buttons. 
 
+[Click here to see the solution live.](https://frontend-mentor-fylo.now.sh/)
+
 ## Frontend Mentor Instructions
 
 *Original FEM README was edited for relevance*
